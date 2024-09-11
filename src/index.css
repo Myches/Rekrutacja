@@ -4,4 +4,14 @@
 
 
 
-
+@layer utilities {
+    .font-bebas {
+      font-family: 'Bebas Neue', cursive;
+    }
+    .font-roboto-flex {
+      font-family: 'Roboto Flex', sans-serif;
+    }
+    .font-roboto-condensed {
+      font-family: 'Roboto Condensed', sans-serif;
+    }
+  }
