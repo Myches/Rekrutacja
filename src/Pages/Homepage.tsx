@@ -32,7 +32,7 @@ function Homepage() {
   return (
     <div className="w-full mt-8 md:mt-12 ">
       <div className="flex flex-col lg:flex-row justify-between mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        {/* Text Section */}
+   
         <div className="w-full lg:w-[53%] space-y-6 md:space-y-8 mb-8 lg:mb-0">
           <h1 className="text-4xl md:text-5xl lg:text-[76px] lg:leading-[84px] leading-tight text-csBlack  font-bebas">
             Sprzedajemy samochody z Europy
@@ -50,7 +50,7 @@ function Homepage() {
           </div>
         </div>
         
-        {/* Image Section */}
+      
         <div className="w-full lg:w-[70%]  lg:absolute lg:top-[65%] lg:right-0 ">
           <img
             src="./images/Hero.png"
