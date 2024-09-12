@@ -19,7 +19,7 @@ function Navbar() {
         </div>
         
         <div className="hidden md:block">
-          <button className="bg-blue-700 font-medium h-12 w-40 text-white rounded-lg hover:bg-blue-800 transition-colors">
+          <button className="bg-blue-700 font-medium h-12 w-40 text-white rounded-lg hover:bg-blue-800 z-40 transition-colors">
             Zadzwoń do nas
           </button>
         </div>
